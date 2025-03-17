@@ -1,9 +1,11 @@
 ## 🚢🔧Un mecánico naval estudiando DAW.🔭
 <html>
   <body>
-  <p>He trabajado en astilleros, con barcos y reparando maquinaria pesada, como llevo haciendo ya más de 8 años, pero me dí cuenta de que el mundo de la programación me fascina y se me da mas o menos bién😉.</p>
-  <p>Así que aquí estoy yo, aprendiendo DAW y docencia al mismo tiempo siempre y cuando no este atendiendo mis hobbies como son la montaña🏔️, la nieve🏂, algun deporte de agua🚤🏄‍♂️ o visitando a la familia👩‍🦳..</p>  
-  <h2>Bienvenidos.</h2>
+  <article>
+  <h1>Sobre mi:</h1>
+  <p>He trabajado en astilleros, con barcos y reparando maquinaria pesada, como llevo haciendo ya más de 8 años, pero me dí cuenta de que el mundo de la programación me fascina y se me da.... más o menos bién😉.</p>
+  <p>Así que aquí estoy yo, aprendiendo DAW y docencia al mismo tiempo, siempre y cuando no esté atendiendo mis hobbies como son la montaña🏔️, la nieve🏂, algun deporte de agua🚤🏄‍♂️ o esté visitando a la familia👩‍🦳..</p>  
+  <h2>Bienvenidos a mi GitHub</h2>
   </body>
 </html>
 
